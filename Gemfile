@@ -36,3 +36,6 @@ gem "webrick", "~> 1.7"
 gem 'kramdown-parser-gfm'
 
 gem 'jekyll-remote-theme'
+
+#Debugar aplicação
+gem "liquid-pry"
